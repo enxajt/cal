@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cal/Utils"
 	"fmt"
+	"github.com/enxajt/cal/Utils"
 )
 
 func main() {
